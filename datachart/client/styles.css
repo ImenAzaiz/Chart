@@ -1,0 +1,17 @@
+h1 {
+    margin: 20;
+    padding: 20;
+    text-align: center; 
+    font-family: sans-serif;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    width: 700px;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 3px rgba(255, 26, 104, 1);
+    background: white;
+}

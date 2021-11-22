@@ -1,0 +1,38 @@
+{
+    "Jan": {
+        "car": 200,
+        "cycles": 300,
+        "bus": 50,
+        "plane": 50
+    },
+    "Feb": {
+        "car": 300,
+        "cycles": 200,
+        "bus": 100,
+        "plane": 200
+    },
+    "March": {
+        "car": 500,
+        "cycles": 300,
+        "bus": 350,
+        "plane": 50
+    },
+    "April": {
+        "car": 200,
+        "cycles": 100,
+        "bus": 150,
+        "plane": 150
+    },
+    "May": {
+        "car": 250,
+        "cycles": 350,
+        "bus": 150,
+        "plane": 150
+    },
+    "June": {
+        "car": 500,
+        "cycles": 300,
+        "bus": 400,
+        "plane": 100
+    }
+}
